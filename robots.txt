@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://leonardoeloy.github.io/sitemap.xml 
